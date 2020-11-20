@@ -1,0 +1,9 @@
+{
+  "mqtt": {
+    "host": "x.x.x.x",
+    "port": 1883
+  },
+  "preface": "myhome",
+  "delay": 300,
+  "debug": false
+}
